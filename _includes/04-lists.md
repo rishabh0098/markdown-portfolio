@@ -1,0 +1,4 @@
+- eat :hamburger:
+- sleep :sleeping:
+- code :computer:
+- repeat
